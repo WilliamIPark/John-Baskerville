@@ -4,3 +4,5 @@ John Baskerville project that I will be working on over the next few weeks. This
 
 - [Version 1](http://williamipark.github.io/John-Baskerville/version1.html)
 - [Version 2](http://williamipark.github.io/John-Baskerville/version2.html)
+- Version 3
+- [Version 4](http://williamipark.github.io/John-Baskerville/version4.html)
